@@ -2,7 +2,7 @@
 ###A Jquery plugin for displaying text one-by-one character.
 
 ```javascript
-/* Basic example */
+/* Usage example */
 $('.demo').onebyone(100, true, 3000);
 
 ```
