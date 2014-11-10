@@ -1,0 +1,28 @@
+{
+    "name": "onebyone",
+    "title": "One by One",
+    "description": "jQuery plugin for displaying characters from text one-by-one.",
+    "keywords": [
+        "onebyone",
+        "matrix",
+        "text"
+    ],
+    "version": "1.0.0",
+    "author": {
+        "name": "Kasi Chonpimai",
+        "url": "https://github.com/smiled0g"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "http://opensource.org/licenses/MIT"
+        }
+    ],
+    "bugs": "https://github.com/smiled0g/onebyone/issues",
+    "homepage": "https://github.com/smiled0g/onebyone",
+    "docs": "https://github.com/smiled0g/onebyone",
+    "download": "https://github.com/smiled0g/onebyone",
+    "dependencies": {
+        "jquery": ">=1.4"
+    }
+}
