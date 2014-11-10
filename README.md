@@ -1,13 +1,8 @@
 #onebyone
-========
-
 ###A Jquery plugin for displaying from text one-by-one character.
 
 ```javascript
-/*
-	Basic example
-*/
-
+/* Basic example */
 $('.demo').onebyone(100, true, 3000);
 
 ```
