@@ -1,5 +1,5 @@
-#onebyone
-###A Jquery plugin for displaying from text one-by-one character.
+#One by One
+###A Jquery plugin for displaying text one-by-one character.
 
 ```javascript
 /* Basic example */
