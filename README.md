@@ -1,4 +1,4 @@
-#One by One
+#One-by-one
 ###A Jquery plugin for displaying text one-by-one character.
 
 ```javascript
